@@ -8,7 +8,7 @@
 * [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 * [Churn Classification Model](#Churn-Classification-Model)
 * [Next Steps](#Next-Steps)
-* [Repository Structure](#Repository-Structure)]
+* [Repository Structure](#Repository-Structure)
 
 # Important Links
 
