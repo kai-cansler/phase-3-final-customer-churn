@@ -1,6 +1,6 @@
 # Hi! This project is to build a model that will predict customer churn.
 
-![cover](./image/cover.png)
+![cover](./images/cover.png)
 
 # Index
 
