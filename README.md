@@ -81,14 +81,18 @@ There may be be a few explanations for the difference in churn among states.
 The number of calls conducted for both customers that churn and do not churn are approximately identical. Looking at the number of minutes though we can see a higher call lengths for those that churn. 
 1. We can understand that for average usage the churn rate is the same.
 2. The longer their calls the higher the charge so those who make longer calls either care more or use more in their day-to-day activities and are more inclined to shop for competitive deals.
+   
 
 ![international_plan](./visualizations/intl_plan_churn.png)
+
 
 Customers who has an international plan are also significantly more likely to churn that those without. 
 1. The rates for international minutes are the same regardless of whether the customer has an international plan or not ($0.27/min).
 2. With no benefit to charge for international calls, it is possible that the customers who churned felt that there was no benefit to paying for an international plan.
 
+
 ![voicemail plan](./visualizations/voicemail_plan_churn.png)
+
 
 Customers who have a voice mail plan are less likely to churn than those without. Customers who subscribe to a beneficial service apart from their normal service are more likely to stay. This may be because they are more integrated with our services and switching may cause a higher negative. 
 
