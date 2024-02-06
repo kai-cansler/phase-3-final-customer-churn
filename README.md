@@ -28,7 +28,7 @@ In the EDA I aim to answer the following questions:
  
 **Data Understanding**
 
-I used the churn in telecoms dataset in this project, this can be found in the data folder, and was downloaded from kaggle [dataset link](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). This dataset contains 21 features including the target and 3333 observations. The data set was pretty clean without large outliers or misspelled categories and with normal distributions.
+I used the churn in telecoms dataset in this project, this can be found in the data folder, and was downloaded from [churn in telecom dataset on kaggle](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). This dataset contains 21 features including the target and 3333 observations. The data set was pretty clean without large outliers or misspelled categories and with normal distributions.
 
 # Exploratory Data Analysis
 
