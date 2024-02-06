@@ -19,7 +19,7 @@
 
 SyriaTel Communications, a telecommunications firm, looks to predict and decrease customer churn, which refers to customers discontinuing their services with the company. Customer churn is a significant challenge for service-oriented businesses due to its high costs. The company not only losses the customer's payments but also bears expenses related to acquiring new customers to offset the loss.
 
-In understand SyriaTel's customer churn issue, I began with Exploratory Data Analysis (EDA) to understand our customers that churn. We then tested and developmed a machine learning classifier. This classifier is tuned to forecast potential customer churn, enabling SyriaTel to devise a more effective strategy to prevent customer churn.
+In understand SyriaTel's customer churn issue, I began with Exploratory Data Analysis (EDA) to understand our customers that churn. We then tested and developed a machine learning classifier. This classifier is tuned to forecast potential customer churn, enabling SyriaTel to devise a more effective strategy to prevent customer churn.
 
 In the EDA I aim to answer the following questions:
 * What are signs that point to potential churn?
@@ -67,7 +67,7 @@ States have different degrees of churn rates. Upon categorizing by state, Califo
 
 There may be be a few explanations for the difference in churn among states. 
 1. Presence of big competitors with different prices and wider range of solutions in places California, New Jersey, and Texas. Another reason could be the lack of presence in those states or decreased service as their populations are higher.
-2. States such as Hawaii and Arkansas are more rural and may not have as many competitors decreasing their options.
+2. States such as Hawaii and Arkansas have lower population as well as more rural areas and may not have as many competitors, decreasing their options.
 
 **Recommendations**
 
@@ -82,15 +82,15 @@ The number of calls conducted for both customers that churn and do not churn are
 1. We can understand that for average usage the churn rate is the same.
 2. The longer their calls the higher the charge so those who make longer calls either care more or use more in their day-to-day activities and are more inclined to shop for competitive deals.
 
-![voicemail plan](./visualizations/voicemail_plan_churn.png)
+![international_plan](./visualizations/intl_plan_churn.png)
 
 Customers who has an international plan are also significantly more likely to churn that those without. 
 1. The rates for international minutes are the same regardless of whether the customer has an international plan or not ($0.27/min).
 2. With no benefit to charge for international calls, it is possible that the customers who churned felt that there was no benefit to paying for an international plan.
 
-![international_plan](./visualizations/intl_plan_churn)
+![voicemail plan](./visualizations/voicemail_plan_churn.png)
 
-Customers who have an voice mail plan are less likely to churn than those without. Customers who subscribe to a beneficial service apart from their normal service are more likely to stay. This may be because they are more integrated with our services and switching may cause a higher negative. 
+Customers who have a voice mail plan are less likely to churn than those without. Customers who subscribe to a beneficial service apart from their normal service are more likely to stay. This may be because they are more integrated with our services and switching may cause a higher negative. 
 
 **Recommendation**
 
