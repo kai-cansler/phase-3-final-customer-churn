@@ -46,8 +46,6 @@ We found that:
 
 Customer service calls does not guarantee customer churn, as most customers who remained loyal had 1-2 service calls. Clients conducting more than 3 calls should be considered a warning sign that indicates a higher likelihood of customer churn. It is important to keep in mind that the majority of customers who did churn had made 1-4 calls to customer service.
 
-![number calls boxplot](./visualizations/num_calls_box_plot.png)
-
 
 **Recommendation:** 
 
@@ -77,14 +75,12 @@ There may be be a few explanations for the difference in churn among states.
 
 **Reporting**
 
+
 The number of calls conducted for both customers that churn and do not churn are approximately identical. Looking at the number of minutes though we can see a higher call lengths for those that churn. 
 1. We can understand that for average usage the churn rate is the same.
 2. The longer their calls the higher the charge so those who make longer calls either care more or use more in their day-to-day activities and are more inclined to shop for competitive deals.
 
 ![number calls boxplot](./visualizations/num_calls_box_plot.png)
-   
-
-![international_plan](./visualizations/intl_plan_churn.png)
 
 
 Customers who has an international plan are also significantly more likely to churn that those without. 
